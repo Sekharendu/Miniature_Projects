@@ -1,0 +1,16 @@
+form{
+    text-align: center;
+}
+h1{
+    margin-bottom: 16px;
+    margin-top: 61px;
+}
+.submit{
+    margin-bottom:10px;
+}
+.container{
+    border: 2px solid white;
+    margin-top: 10px;
+    width: 200px;
+    margin-left: 532px;
+}
